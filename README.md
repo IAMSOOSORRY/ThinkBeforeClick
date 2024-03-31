@@ -20,5 +20,5 @@ This project is designed to educate about various forms and techniques of phishi
 
 **Running the Project:**
 1. Clone the repository.
-2. Run the main.py script.
-3. Install any missing modules if you encounter""ModuleNotFoundError".
+2. Run the **main.py** script.
+3. Install any missing modules if you encounter "ModuleNotFoundError".
